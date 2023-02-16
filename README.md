@@ -1,8 +1,8 @@
 ## Hello World! :wave: I am Bruna
 
-A novice to the world of coding, full-stack student, coffee lover, curious, Javascript and CSS fan.
+A novice to the world of coding, front-end student, nature lover, curious, Javascript and CSS fan.
 
-* :seedling: I'm currently learning about API's and ReactJS.
+* :seedling: I'm currently learning about Web Analytics and ReactJS.
 * :hammer: E-commerce projects: [Jardim Aquarela](https://www.jardimaquarela.com.br/) and [Le Savon](https://www.lesavon.com.br/)
 
 <br>

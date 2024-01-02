@@ -1,9 +1,9 @@
 ## Hello World! :wave: I am Bruna
 
-A novice to the world of coding, front-end student, nature lover, curious, Javascript and CSS fan.
+A novice to the world of coding. Front-end student and nature lover.
 
-* :seedling: I'm currently learning about Web Analytics and ReactJS.
-* :hammer: E-commerce projects: [Jardim Aquarela](https://www.jardimaquarela.com.br/) and [Le Savon](https://www.lesavon.com.br/)
+* :seedling: I'm currently learning about Wordpress and Web Analytics.
+* :hammer: Last projects: [Jogo Tapa na Luísa](http://aulaspotify.atwebpages.com/) and [Delícias da Bah](http://deliciasdabah.atwebpages.com/)
 
 <br>
 
